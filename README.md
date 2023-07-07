@@ -42,3 +42,5 @@ Applications that do not require BLE post commissioning, can disable it using ap
 ### 4. Hadar Test Configuration
 
 This program should merge both functionalities for the esp aws iot core + matter protocol 
+
+- Current example is working in the path `.espressif/esp-matter/examples/projects/light`
