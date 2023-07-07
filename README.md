@@ -44,3 +44,4 @@ Applications that do not require BLE post commissioning, can disable it using ap
 This program should merge both functionalities for the esp aws iot core + matter protocol 
 
 - Current example is working in the path `.espressif/esp-matter/examples/projects/light`
+- Create a folder inside main/certs where the certificates are going to be set, this SHOULD NOT be committed to the repository, and just used locally for demo purposes.
